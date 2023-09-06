@@ -1,0 +1,19 @@
+input, select, button {
+    width: 200px;
+    height: 50px;
+}
+
+.X- {
+    display: flex;
+    gap: 10px;
+}
+body
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 70px;
+    gap: 15px;
+    font-size: 35px;
+}
